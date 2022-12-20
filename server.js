@@ -1,3 +1,8 @@
+
+require("dotenv").config();
+
+
+
 const { Console } = require("console");
 const http =require("http");
 const app =require("./app");
